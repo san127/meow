@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8FFF0108-EBF5-4631-A02A-8880BFE5E58F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApp1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApp1</RootNamespace>
+    <AssemblyName>WindowsApp1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApp1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApp1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Devart.Data, Version=6.0.10.0, Culture=neutral, PublicKeyToken=09af7300eec23701" />
+    <Reference Include="Devart.Data.MySql, Version=9.3.10.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminLogin.Designer.vb">
+      <DependentUpon>adminLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminMenu1.Designer.vb">
+      <DependentUpon>adminMenu1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminMenu1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dataoptionsform.Designer.vb">
+      <DependentUpon>dataoptionsform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dataoptionsform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deleteMedForm.Designer.vb">
+      <DependentUpon>deleteMedForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="deleteMedForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="log1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="log1.Designer.vb">
+      <DependentUpon>log1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="orderMgmtForm.Designer.vb">
+      <DependentUpon>orderMgmtForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="orderMgmtForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="phamacistLog.Designer.vb">
+      <DependentUpon>phamacistLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="phamacistLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pharmacistMenu1.Designer.vb">
+      <DependentUpon>pharmacistMenu1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pharmacistMenu1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pharmaDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pharmaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="purchmanger_log.Designer.vb">
+      <DependentUpon>purchmanger_log.vb</DependentUpon>
+    </Compile>
+    <Compile Include="purchmanger_log.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesrepLog.Designer.vb">
+      <DependentUpon>salesrepLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="salesrepLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supplierMgmtForm.Designer.vb">
+      <DependentUpon>supplierMgmtForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="supplierMgmtForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="adminLogin.resx">
+      <DependentUpon>adminLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminMenu1.resx">
+      <DependentUpon>adminMenu1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dataoptionsform.resx">
+      <DependentUpon>dataoptionsform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteMedForm.resx">
+      <DependentUpon>deleteMedForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="log1.resx">
+      <DependentUpon>log1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orderMgmtForm.resx">
+      <DependentUpon>orderMgmtForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="phamacistLog.resx">
+      <DependentUpon>phamacistLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pharmacistMenu1.resx">
+      <DependentUpon>pharmacistMenu1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="purchmanger_log.resx">
+      <DependentUpon>purchmanger_log.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesrepLog.resx">
+      <DependentUpon>salesrepLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supplierMgmtForm.resx">
+      <DependentUpon>supplierMgmtForm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="pharmaDataSet.xsc">
+      <DependentUpon>pharmaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="pharmaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pharmaDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pharmaDataSet.xss">
+      <DependentUpon>pharmaDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

@@ -1,0 +1,48 @@
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.log1.resources
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.adminLogin.resources
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.phamacistLog.resources
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.purchmanger_log.resources
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.salesrepLog.resources
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.adminMenu1.resources
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\bin\Debug\Devart.Data.dll
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.deleteMedForm.resources
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.pharmacistMenu1.resources
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsA.0BF81A2F.Up2Date
+C:\Users\Apple\Desktop\pharmacy mgmt - 22116, 22135\WindowsApp1\obj\Debug\WindowsApp1.dataoptionsform.resources
+C:\Users\Apple\Desktop\New folder\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Apple\Desktop\New folder\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Apple\Desktop\New folder\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Apple\Desktop\New folder\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Apple\Desktop\New folder\WindowsApp1\bin\Debug\Devart.Data.dll
+C:\Users\Apple\Desktop\New folder\WindowsApp1\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.adminLogin.resources
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.adminMenu1.resources
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.dataoptionsform.resources
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.deleteMedForm.resources
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.log1.resources
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.phamacistLog.resources
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.pharmacistMenu1.resources
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.purchmanger_log.resources
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.salesrepLog.resources
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsA.0BF81A2F.Up2Date
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.orderMgmtForm.resources
+C:\Users\Apple\Desktop\New folder\WindowsApp1\obj\Debug\WindowsApp1.supplierMgmtForm.resources
